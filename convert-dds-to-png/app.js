@@ -46,9 +46,12 @@ for(const dir of dirsr) { // ex. "/odr/prop_dummy_car/"
             console.log(`Delete: ${deleteFilePath}`);
         } else {
             for(const f of files) {
-                exec(`magick convert ${f} ${f.replace('dds', 'png')}`, { // ex. "magick convert file.dds file.png"
-                    cwd: dirPath
-                });
+                if (f.includes('.dds')) {
+                    console.log(`f: ${f}`)
+                    exec(`magick convert ${f} ${f.replace('dds', 'png')}`, { // ex. "magick convert file.dds file.png"
+                        cwd: dirPath
+                    });
+                }
             }
         }
     }
