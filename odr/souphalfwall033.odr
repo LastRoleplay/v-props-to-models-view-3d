@@ -1,0 +1,30 @@
+Version 165 32
+{
+	Shaders
+	{
+		default.sps
+		{
+			DiffuseSampler souphalfwall033\wallpaper02.otx
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+		}
+	}
+	Skeleton null
+	LodGroup
+	{
+		Center 0.00000000 0.00000000 0.00000000
+		Radius 1.62220000
+		AABBMin -0.07522250 -0.67564760 -1.47287500
+		AABBMax 0.07522250 0.67564760 1.47287500
+		High 9998.00000000
+		{
+			souphalfwall033\souphalfwall033_high.mesh 0
+		}
+		Med 9998.00000000
+		Low 9998.00000000
+		Vlow 9998.00000000
+	}
+	Joints null
+	Light null
+	Bound souphalfwall033\souphalfwall033.bound
+}

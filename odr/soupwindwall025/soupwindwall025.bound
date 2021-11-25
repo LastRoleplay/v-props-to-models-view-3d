@@ -1,0 +1,351 @@
+Version 43 31
+{
+	Type BoundComposite
+	Radius 2.00025000
+	AABBMax 0.07519200 1.35086900 1.47270900
+	AABBMin -0.07525300 -1.35172300 -1.47304100
+	Centroid -0.00003050 -0.00042720 -0.00016610
+	CG -0.00003050 -0.00042720 -0.03829220
+	Children 1
+	{
+		phBound
+		{
+			Type BoundBVH
+			Radius 2.00025000
+			AABBMax 0.07519200 1.35086900 1.47270900
+			AABBMin -0.07525300 -1.35172300 -1.47304100
+			Centroid -0.00003050 -0.00042720 -0.00016610
+			CG -0.00003050 -0.00042720 -0.03829220
+			Polygons 32
+			{
+				Tri 0
+				{
+					Vertices 1 16 18
+					Siblings -1 -1 1
+					MaterialIndex 0
+				}
+				Tri 1
+				{
+					Vertices 18 0 1
+					Siblings -1 -1 0
+					MaterialIndex 0
+				}
+				Tri 2
+				{
+					Vertices 32 33 34
+					Siblings 3 -1 9
+					MaterialIndex 0
+				}
+				Tri 3
+				{
+					Vertices 30 33 32
+					Siblings -1 2 6
+					MaterialIndex 0
+				}
+				Tri 4
+				{
+					Vertices 5 7 35
+					Siblings -1 -1 5
+					MaterialIndex 0
+				}
+				Tri 5
+				{
+					Vertices 35 4 5
+					Siblings -1 -1 4
+					MaterialIndex 0
+				}
+				Tri 6
+				{
+					Vertices 17 23 26
+					Siblings -1 8 18
+					MaterialIndex 0
+				}
+				Tri 7
+				{
+					Vertices 32 27 30
+					Siblings -1 21 3
+					MaterialIndex 0
+				}
+				Tri 8
+				{
+					Vertices 26 23 24
+					Siblings 7 -1 12
+					MaterialIndex 0
+				}
+				Tri 9
+				{
+					Vertices 34 31 32
+					Siblings 15 -1 2
+					MaterialIndex 0
+				}
+				Tri 10
+				{
+					Vertices 15 10 11
+					Siblings -1 -1 10
+					MaterialIndex 0
+				}
+				Tri 11
+				{
+					Vertices 11 14 15
+					Siblings -1 -1 11
+					MaterialIndex 0
+				}
+				Tri 12
+				{
+					Vertices 24 25 26
+					Siblings 13 -1 8
+					MaterialIndex 0
+				}
+				Tri 13
+				{
+					Vertices 21 25 24
+					Siblings -1 12 14
+					MaterialIndex 0
+				}
+				Tri 14
+				{
+					Vertices 24 6 21
+					Siblings -1 20 13
+					MaterialIndex 0
+				}
+				Tri 15
+				{
+					Vertices 28 31 34
+					Siblings -1 9 29
+					MaterialIndex 0
+				}
+				Tri 16
+				{
+					Vertices 41 42 43
+					Siblings -1 -1 16
+					MaterialIndex 0
+				}
+				Tri 17
+				{
+					Vertices 43 40 41
+					Siblings -1 -1 17
+					MaterialIndex 0
+				}
+				Tri 18
+				{
+					Vertices 26 19 17
+					Siblings -1 19 7
+					MaterialIndex 0
+				}
+				Tri 19
+				{
+					Vertices 17 19 21
+					Siblings 18 -1 20
+					MaterialIndex 0
+				}
+				Tri 20
+				{
+					Vertices 30 27 28
+					Siblings 6 -1 26
+					MaterialIndex 0
+				}
+				Tri 21
+				{
+					Vertices 21 6 17
+					Siblings 14 -1 19
+					MaterialIndex 0
+				}
+				Tri 22
+				{
+					Vertices 3 20 22
+					Siblings -1 -1 23
+					MaterialIndex 0
+				}
+				Tri 23
+				{
+					Vertices 22 2 3
+					Siblings -1 -1 22
+					MaterialIndex 0
+				}
+				Tri 24
+				{
+					Vertices 9 12 13
+					Siblings -1 -1 25
+					MaterialIndex 0
+				}
+				Tri 25
+				{
+					Vertices 13 8 9
+					Siblings -1 -1 24
+					MaterialIndex 0
+				}
+				Tri 26
+				{
+					Vertices 28 29 30
+					Siblings 29 -1 21
+					MaterialIndex 0
+				}
+				Tri 27
+				{
+					Vertices 45 46 47
+					Siblings -1 -1 28
+					MaterialIndex 0
+				}
+				Tri 28
+				{
+					Vertices 47 44 45
+					Siblings -1 -1 27
+					MaterialIndex 0
+				}
+				Tri 29
+				{
+					Vertices 34 29 28
+					Siblings -1 26 15
+					MaterialIndex 0
+				}
+				Tri 30
+				{
+					Vertices 37 38 39
+					Siblings -1 -1 30
+					MaterialIndex 0
+				}
+				Tri 31
+				{
+					Vertices 39 36 37
+					Siblings -1 -1 31
+					MaterialIndex 0
+				}
+			}
+			GeometryCenter -0.00003050 -0.00042720 -0.00016610 0.00200000
+			Vertices 48
+			{
+				-0.07522250 -1.35129600 -1.47287500
+				-0.07522250 1.35129600 -1.47287500
+				0.07522250 -1.35129600 1.47287500
+				0.07522250 1.35129600 1.47287500
+				0.07522250 -1.35129600 -1.47287500
+				0.07522250 -1.35129600 1.47287500
+				0.07522250 1.35129600 1.47287500
+				-0.07522250 -1.35129600 1.47287500
+				-0.07522250 -0.74901540 0.73050390
+				-0.07522250 0.74901540 0.73050390
+				-0.07522250 0.74901540 -0.46888720
+				-0.07522250 -0.74901540 -0.46888720
+				0.07522250 0.74901540 0.73050390
+				0.07522250 -0.74901540 0.73050390
+				0.07522250 -0.74901540 -0.46888720
+				0.07522250 0.74901540 -0.46888720
+				0.07522250 1.35129600 -1.47287500
+				0.07522250 -1.35129600 1.47287500
+				0.07522250 -1.35129600 -1.47287500
+				0.07522250 -0.74901540 0.73050390
+				-0.07522250 1.35129600 1.47287500
+				0.07522250 0.74901540 0.73050390
+				-0.07522250 -1.35129600 1.47287500
+				0.07522250 -1.35129600 -1.47287500
+				0.07522250 1.35129600 -1.47287500
+				0.07522250 0.74901540 -0.46888720
+				0.07522250 -0.74901540 -0.46888720
+				-0.07522250 -1.35129600 1.47287500
+				-0.07522250 1.35129600 1.47287500
+				-0.07522250 0.74901540 0.73050390
+				-0.07522250 -0.74901540 0.73050390
+				-0.07522250 1.35129600 -1.47287500
+				-0.07522250 -1.35129600 -1.47287500
+				-0.07522250 -0.74901540 -0.46888720
+				-0.07522250 0.74901540 -0.46888720
+				-0.07522250 -1.35129600 -1.47287500
+				-0.07522250 1.35129600 -1.47287500
+				-0.07522250 1.35129600 1.47287500
+				0.07522250 1.35129600 1.47287500
+				0.07522250 1.35129600 -1.47287500
+				-0.07522250 -0.74901540 -0.46888720
+				-0.07522250 -0.74901540 0.73050390
+				0.07522250 -0.74901540 0.73050390
+				0.07522250 -0.74901540 -0.46888720
+				-0.07522250 0.74901540 0.73050390
+				-0.07522250 0.74901540 -0.46888720
+				0.07522250 0.74901540 -0.46888720
+				0.07522250 0.74901540 0.73050390
+			}
+			VertexColors 48
+			{
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+			}
+			Materials 1
+			{
+				Material 0
+				{
+					MaterialIndex 0
+					ProcId 0
+					RoomId 0
+					PedDensity 0
+					PolyFlags FORMATS_EMPTY_FLAGS
+					MaterialColorIndex 0
+				}
+			}
+			MaterialColors null
+			Margin 0.00500000
+		}
+	}
+	ChildTransforms 1
+	{
+		Matrix 0
+		{
+			1.00000000 0.00000000 0.00000000
+			0.00000000 1.00000000 0.00000000
+			0.00000000 0.00000000 1.00000000
+			0.00000000 0.00000000 0.00000000
+		}
+	}
+	ChildFlags 1
+	{
+		Item
+		{
+			Flags1 MAP_WEAPON MAP_DYNAMIC MAP_ANIMAL MAP_COVER MAP_VEHICLE OBJECT
+			Flags2 UNKNOWN MAP_WEAPON MAP_DYNAMIC MAP_ANIMAL MAP_COVER MAP_VEHICLE VEHICLE_NOT_BVH VEHICLE_BVH VEHICLE_BOX PED RAGDOLL ANIMAL ANIMAL_RAGDOLL OBJECT OBJECT_ENV_CLOTH PLANT PROJECTILE EXPLOSION PICKUP FOLIAGE FORKLIFT_FORKS TEST_WEAPON TEST_CAMERA TEST_AI TEST_SCRIPT TEST_VEHICLE_WHEEL GLASS MAP_RIVER SMOKE UNSMASHED MAP_STAIRS MAP_DEEP_SURFACE
+		}
+	}
+}

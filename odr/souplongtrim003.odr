@@ -1,0 +1,30 @@
+Version 165 32
+{
+	Shaders
+	{
+		default.sps
+		{
+			DiffuseSampler souplongtrim003\woodframe01.otx
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+		}
+	}
+	Skeleton null
+	LodGroup
+	{
+		Center -0.02211330 0.00000000 0.08561950
+		Radius 4.05300000
+		AABBMin -0.06514570 -4.05186900 0.00000000
+		AABBMax 0.02091910 4.05186900 0.17123900
+		High 9998.00000000
+		{
+			souplongtrim003\souplongtrim003_high.mesh 0
+		}
+		Med 9998.00000000
+		Low 9998.00000000
+		Vlow 9998.00000000
+	}
+	Joints null
+	Light null
+	Bound souplongtrim003\souplongtrim003.bound
+}

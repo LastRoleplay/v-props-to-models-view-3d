@@ -1,0 +1,30 @@
+Version 165 32
+{
+	Shaders
+	{
+		default.sps
+		{
+			DiffuseSampler Soupstairs006\mh_v_aph_floormarble2_d.otx
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+		}
+	}
+	Skeleton null
+	LodGroup
+	{
+		Center 1.12681100 1.50450100 0.84367080
+		Radius 1.90905000
+		AABBMin 0.00000000 0.21492880 0.00000000
+		AABBMax 2.25362200 2.79407400 1.68734200
+		High 9998.00000000
+		{
+			Soupstairs006\Soupstairs006_high.mesh 0
+		}
+		Med 9998.00000000
+		Low 9998.00000000
+		Vlow 9998.00000000
+	}
+	Joints null
+	Light null
+	Bound Soupstairs006\Soupstairs006.bound
+}

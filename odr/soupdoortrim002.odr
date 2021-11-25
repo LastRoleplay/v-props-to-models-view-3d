@@ -1,0 +1,30 @@
+Version 165 32
+{
+	Shaders
+	{
+		default.sps
+		{
+			DiffuseSampler soupdoortrim002\darkwooddoorframe.otx
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+		}
+	}
+	Skeleton null
+	LodGroup
+	{
+		Center -0.10083700 -0.99842670 1.14852800
+		Radius 1.78337000
+		AABBMin -0.22259310 -2.34861000 -0.01017260
+		AABBMax 0.02091910 0.35175630 2.30722900
+		High 9998.00000000
+		{
+			soupdoortrim002\soupdoortrim002_high.mesh 0
+		}
+		Med 9998.00000000
+		Low 9998.00000000
+		Vlow 9998.00000000
+	}
+	Joints null
+	Light null
+	Bound soupdoortrim002\soupdoortrim002.bound
+}

@@ -1,0 +1,183 @@
+Version 43 31
+{
+	Type BoundComposite
+	Radius 1.62220000
+	AABBMax 0.07522800 0.67564760 1.47287500
+	AABBMin -0.07521700 -0.67564760 -1.47287500
+	Centroid 0.00000550 0.00000000 0.00000000
+	CG 0.00000550 0.00000000 0.00000000
+	Children 1
+	{
+		phBound
+		{
+			Type BoundBVH
+			Radius 1.62220000
+			AABBMax 0.07522800 0.67564760 1.47287500
+			AABBMin -0.07521700 -0.67564760 -1.47287500
+			Centroid 0.00000550 0.00000000 0.00000000
+			CG 0.00000550 0.00000000 0.00000000
+			Polygons 12
+			{
+				Tri 0
+				{
+					Vertices 1 2 20
+					Siblings -1 -1 0
+					MaterialIndex 0
+				}
+				Tri 1
+				{
+					Vertices 20 0 1
+					Siblings -1 -1 1
+					MaterialIndex 0
+				}
+				Tri 2
+				{
+					Vertices 9 8 6
+					Siblings -1 -1 2
+					MaterialIndex 0
+				}
+				Tri 3
+				{
+					Vertices 6 7 9
+					Siblings -1 -1 3
+					MaterialIndex 0
+				}
+				Tri 4
+				{
+					Vertices 23 18 19
+					Siblings -1 -1 5
+					MaterialIndex 0
+				}
+				Tri 5
+				{
+					Vertices 11 12 17
+					Siblings -1 -1 4
+					MaterialIndex 0
+				}
+				Tri 6
+				{
+					Vertices 17 10 11
+					Siblings -1 -1 7
+					MaterialIndex 0
+				}
+				Tri 7
+				{
+					Vertices 19 21 23
+					Siblings -1 -1 6
+					MaterialIndex 0
+				}
+				Tri 8
+				{
+					Vertices 13 14 16
+					Siblings -1 -1 8
+					MaterialIndex 0
+				}
+				Tri 9
+				{
+					Vertices 16 15 13
+					Siblings -1 -1 9
+					MaterialIndex 0
+				}
+				Tri 10
+				{
+					Vertices 4 5 22
+					Siblings -1 -1 10
+					MaterialIndex 0
+				}
+				Tri 11
+				{
+					Vertices 22 3 4
+					Siblings -1 -1 11
+					MaterialIndex 0
+				}
+			}
+			GeometryCenter 0.00000550 0.00000000 0.00000000 0.00200000
+			Vertices 24
+			{
+				-0.07522250 -0.67564760 -1.47287500
+				-0.07522250 0.67564760 -1.47287500
+				0.07522250 0.67564760 -1.47287500
+				-0.07522250 -0.67564760 1.47287500
+				0.07522250 -0.67564760 1.47287500
+				0.07522250 0.67564760 1.47287500
+				-0.07522250 -0.67564760 -1.47287500
+				0.07522250 -0.67564760 -1.47287500
+				-0.07522250 -0.67564760 1.47287500
+				0.07522250 -0.67564760 1.47287500
+				0.07522250 -0.67564760 -1.47287500
+				0.07522250 0.67564760 -1.47287500
+				0.07522250 0.67564760 1.47287500
+				0.07522250 0.67564760 -1.47287500
+				-0.07522250 0.67564760 -1.47287500
+				0.07522250 0.67564760 1.47287500
+				-0.07522250 0.67564760 1.47287500
+				0.07522250 -0.67564760 1.47287500
+				-0.07522250 0.67564760 -1.47287500
+				-0.07522250 -0.67564760 -1.47287500
+				0.07522250 -0.67564760 -1.47287500
+				-0.07522250 -0.67564760 1.47287500
+				-0.07522250 0.67564760 1.47287500
+				-0.07522250 0.67564760 1.47287500
+			}
+			VertexColors 24
+			{
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+				100 100 100 255
+			}
+			Materials 1
+			{
+				Material 0
+				{
+					MaterialIndex 0
+					ProcId 0
+					RoomId 0
+					PedDensity 0
+					PolyFlags FORMATS_EMPTY_FLAGS
+					MaterialColorIndex 0
+				}
+			}
+			MaterialColors null
+			Margin 0.00500000
+		}
+	}
+	ChildTransforms 1
+	{
+		Matrix 0
+		{
+			1.00000000 0.00000000 0.00000000
+			0.00000000 1.00000000 0.00000000
+			0.00000000 0.00000000 1.00000000
+			0.00000000 0.00000000 0.00000000
+		}
+	}
+	ChildFlags 1
+	{
+		Item
+		{
+			Flags1 MAP_WEAPON MAP_DYNAMIC MAP_ANIMAL MAP_COVER MAP_VEHICLE OBJECT
+			Flags2 UNKNOWN MAP_WEAPON MAP_DYNAMIC MAP_ANIMAL MAP_COVER MAP_VEHICLE VEHICLE_NOT_BVH VEHICLE_BVH VEHICLE_BOX PED RAGDOLL ANIMAL ANIMAL_RAGDOLL OBJECT OBJECT_ENV_CLOTH PLANT PROJECTILE EXPLOSION PICKUP FOLIAGE FORKLIFT_FORKS TEST_WEAPON TEST_CAMERA TEST_AI TEST_SCRIPT TEST_VEHICLE_WHEEL GLASS MAP_RIVER SMOKE UNSMASHED MAP_STAIRS MAP_DEEP_SURFACE
+		}
+	}
+}

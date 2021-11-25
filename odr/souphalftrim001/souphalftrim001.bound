@@ -1,0 +1,427 @@
+Version 43 31
+{
+	Type BoundComposite
+	Radius 0.29145000
+	AABBMax 0.01761100 0.27963940 0.14433160
+	AABBMin -0.05481470 -0.28050430 0.00022960
+	Centroid -0.01860190 -0.00043250 0.07228060
+	CG -0.02206900 -0.00043250 0.06195700
+	Children 1
+	{
+		phBound
+		{
+			Type BoundBVH
+			Radius 0.67830600
+			AABBMax 0.02092290 0.67119750 0.17136370
+			AABBMin -0.06514190 -0.67180790 0.00012470
+			Centroid -0.02210950 -0.00030520 0.08574420
+			CG -0.02622950 -0.00030520 0.07347650
+			Polygons 56
+			{
+				Tri 0
+				{
+					Vertices 9 0 1
+					Siblings 10 1 4
+					MaterialIndex 0
+				}
+				Tri 1
+				{
+					Vertices 1 8 9
+					Siblings 7 14 5
+					MaterialIndex 0
+				}
+				Tri 2
+				{
+					Vertices 8 16 9
+					Siblings 15 13 4
+					MaterialIndex 0
+				}
+				Tri 3
+				{
+					Vertices 16 24 23
+					Siblings 30 38 13
+					MaterialIndex 0
+				}
+				Tri 4
+				{
+					Vertices 13 12 26
+					Siblings 23 51 52
+					MaterialIndex 0
+				}
+				Tri 5
+				{
+					Vertices 24 19 23
+					Siblings 42 41 12
+					MaterialIndex 0
+				}
+				Tri 6
+				{
+					Vertices 26 19 24
+					Siblings 37 38 43
+					MaterialIndex 0
+				}
+				Tri 7
+				{
+					Vertices 28 26 24
+					Siblings 52 42 44
+					MaterialIndex 0
+				}
+				Tri 8
+				{
+					Vertices 26 28 13
+					Siblings 43 54 53
+					MaterialIndex 0
+				}
+				Tri 9
+				{
+					Vertices 16 23 9
+					Siblings 12 21 14
+					MaterialIndex 0
+				}
+				Tri 10
+				{
+					Vertices 21 28 24
+					Siblings 45 43 30
+					MaterialIndex 0
+				}
+				Tri 11
+				{
+					Vertices 16 21 24
+					Siblings 31 44 12
+					MaterialIndex 0
+				}
+				Tri 12
+				{
+					Vertices 12 13 5
+					Siblings 53 24 22
+					MaterialIndex 0
+				}
+				Tri 13
+				{
+					Vertices 5 4 12
+					Siblings 2 29 23
+					MaterialIndex 0
+				}
+				Tri 14
+				{
+					Vertices 0 2 3
+					Siblings 11 9 1
+					MaterialIndex 0
+				}
+				Tri 15
+				{
+					Vertices 3 1 0
+					Siblings 7 5 0
+					MaterialIndex 0
+				}
+				Tri 16
+				{
+					Vertices 3 10 8
+					Siblings 9 16 7
+					MaterialIndex 0
+				}
+				Tri 17
+				{
+					Vertices 8 1 3
+					Siblings 4 1 6
+					MaterialIndex 0
+				}
+				Tri 18
+				{
+					Vertices 11 2 0
+					Siblings 8 0 10
+					MaterialIndex 0
+				}
+				Tri 19
+				{
+					Vertices 0 9 11
+					Siblings 5 21 11
+					MaterialIndex 0
+				}
+				Tri 20
+				{
+					Vertices 19 18 20
+					Siblings 37 39 41
+					MaterialIndex 0
+				}
+				Tri 21
+				{
+					Vertices 20 23 19
+					Siblings 20 38 40
+					MaterialIndex 0
+				}
+				Tri 22
+				{
+					Vertices 11 9 23
+					Siblings 10 13 20
+					MaterialIndex 0
+				}
+				Tri 23
+				{
+					Vertices 23 20 11
+					Siblings 41 18 21
+					MaterialIndex 0
+				}
+				Tri 24
+				{
+					Vertices 22 21 16
+					Siblings 46 30 32
+					MaterialIndex 0
+				}
+				Tri 25
+				{
+					Vertices 16 17 22
+					Siblings 15 47 31
+					MaterialIndex 0
+				}
+				Tri 26
+				{
+					Vertices 8 10 17
+					Siblings 6 19 15
+					MaterialIndex 0
+				}
+				Tri 27
+				{
+					Vertices 17 16 8
+					Siblings 32 14 16
+					MaterialIndex 0
+				}
+				Tri 28
+				{
+					Vertices 18 19 26
+					Siblings 40 42 36
+					MaterialIndex 0
+				}
+				Tri 29
+				{
+					Vertices 26 27 18
+					Siblings 51 35 37
+					MaterialIndex 0
+				}
+				Tri 30
+				{
+					Vertices 27 26 12
+					Siblings 36 53 50
+					MaterialIndex 0
+				}
+				Tri 31
+				{
+					Vertices 12 15 27
+					Siblings 29 49 51
+					MaterialIndex 0
+				}
+				Tri 32
+				{
+					Vertices 15 12 4
+					Siblings 50 22 28
+					MaterialIndex 0
+				}
+				Tri 33
+				{
+					Vertices 4 6 15
+					Siblings 3 26 29
+					MaterialIndex 0
+				}
+				Tri 34
+				{
+					Vertices 13 14 7
+					Siblings 54 27 24
+					MaterialIndex 0
+				}
+				Tri 35
+				{
+					Vertices 7 5 13
+					Siblings 2 23 25
+					MaterialIndex 0
+				}
+				Tri 36
+				{
+					Vertices 14 13 28
+					Siblings 25 52 55
+					MaterialIndex 0
+				}
+				Tri 37
+				{
+					Vertices 28 29 14
+					Siblings 45 48 54
+					MaterialIndex 0
+				}
+				Tri 38
+				{
+					Vertices 29 28 21
+					Siblings 55 44 46
+					MaterialIndex 0
+				}
+				Tri 39
+				{
+					Vertices 21 22 29
+					Siblings 31 33 45
+					MaterialIndex 0
+				}
+				Tri 40
+				{
+					Vertices 7 6 4
+					Siblings 26 28 2
+					MaterialIndex 0
+				}
+				Tri 41
+				{
+					Vertices 4 5 7
+					Siblings 22 24 3
+					MaterialIndex 0
+				}
+				Tri 42
+				{
+					Vertices 10 3 2
+					Siblings 6 0 8
+					MaterialIndex 0
+				}
+				Tri 43
+				{
+					Vertices 2 11 10
+					Siblings 11 19 9
+					MaterialIndex 0
+				}
+				Tri 44
+				{
+					Vertices 11 17 10
+					Siblings 18 16 8
+					MaterialIndex 0
+				}
+				Tri 45
+				{
+					Vertices 11 20 17
+					Siblings 20 17 19
+					MaterialIndex 0
+				}
+				Tri 46
+				{
+					Vertices 20 25 17
+					Siblings 39 47 18
+					MaterialIndex 0
+				}
+				Tri 47
+				{
+					Vertices 22 17 25
+					Siblings 32 17 33
+					MaterialIndex 0
+				}
+				Tri 48
+				{
+					Vertices 20 18 25
+					Siblings 40 35 17
+					MaterialIndex 0
+				}
+				Tri 49
+				{
+					Vertices 29 22 25
+					Siblings 46 47 34
+					MaterialIndex 0
+				}
+				Tri 50
+				{
+					Vertices 18 27 25
+					Siblings 36 34 39
+					MaterialIndex 0
+				}
+				Tri 51
+				{
+					Vertices 27 29 25
+					Siblings 48 33 35
+					MaterialIndex 0
+				}
+				Tri 52
+				{
+					Vertices 14 29 27
+					Siblings 55 34 49
+					MaterialIndex 0
+				}
+				Tri 53
+				{
+					Vertices 27 15 14
+					Siblings 50 27 48
+					MaterialIndex 0
+				}
+				Tri 54
+				{
+					Vertices 7 14 15
+					Siblings 25 49 26
+					MaterialIndex 0
+				}
+				Tri 55
+				{
+					Vertices 15 6 7
+					Siblings 28 3 27
+					MaterialIndex 0
+				}
+			}
+			GeometryCenter -0.02210950 -0.00030520 0.08574420 0.00200000
+			Vertices 30
+			{
+				-0.04300482 -0.67150270 -0.08561950
+				0.04303240 -0.67150270 -0.08561950
+				-0.04300482 0.67150270 -0.08561950
+				0.04303240 0.67150270 -0.08561950
+				-0.04300482 -0.67150270 0.08561950
+				-0.01045407 -0.67150270 0.08561950
+				-0.04300482 0.67150270 0.08561950
+				-0.01045407 0.67150270 0.08561950
+				0.04303240 -0.67150270 0.02864697
+				-0.04300482 -0.67150270 0.02864697
+				0.04303240 0.67150270 0.02864697
+				-0.04300482 0.67150270 0.02864697
+				-0.04300482 -0.67150270 0.07618635
+				-0.00784055 -0.67150270 0.06065171
+				-0.00784055 0.67150270 0.06065171
+				-0.04300482 0.67150270 0.07618635
+				0.03327965 -0.67150270 0.02750767
+				0.03327965 0.67150270 0.02750767
+				-0.04303240 0.67150270 0.03376073
+				-0.04303240 -0.67150270 0.03376073
+				-0.04301927 0.67150270 0.03130968
+				0.00691860 -0.67150270 0.03403771
+				0.00691860 0.67150270 0.03403771
+				-0.04301927 -0.67150270 0.03130968
+				0.00423547 -0.67150270 0.03130968
+				0.00423547 0.67150270 0.03130968
+				-0.04301795 -0.67150270 0.05547002
+				-0.04301795 0.67150270 0.05547002
+				0.00550020 -0.67150270 0.05170983
+				0.00550020 0.67150270 0.05170983
+			}
+			VertexColors null
+			Materials 1
+			{
+				Material 0
+				{
+					MaterialIndex 0
+					ProcId 0
+					RoomId 0
+					PedDensity 0
+					PolyFlags FORMATS_EMPTY_FLAGS
+					MaterialColorIndex 0
+				}
+			}
+			MaterialColors null
+			Margin 0.00500000
+		}
+	}
+	ChildTransforms 1
+	{
+		Matrix 0
+		{
+			1.00000000 0.00000000 0.00000000
+			0.00000000 1.00000000 0.00000000
+			0.00000000 0.00000000 1.00000000
+			0.00000000 0.00000000 0.00000000
+		}
+	}
+	ChildFlags 1
+	{
+		Item
+		{
+			Flags1 MAP_WEAPON MAP_DYNAMIC MAP_ANIMAL MAP_COVER MAP_VEHICLE
+			Flags2 UNKNOWN MAP_WEAPON MAP_DYNAMIC MAP_ANIMAL MAP_COVER MAP_VEHICLE VEHICLE_NOT_BVH VEHICLE_BVH VEHICLE_BOX PED RAGDOLL ANIMAL ANIMAL_RAGDOLL OBJECT OBJECT_ENV_CLOTH PLANT PROJECTILE EXPLOSION PICKUP FOLIAGE FORKLIFT_FORKS TEST_WEAPON TEST_CAMERA TEST_AI TEST_SCRIPT TEST_VEHICLE_WHEEL GLASS MAP_RIVER SMOKE UNSMASHED MAP_STAIRS MAP_DEEP_SURFACE
+		}
+	}
+}
